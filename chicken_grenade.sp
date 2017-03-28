@@ -9,11 +9,11 @@
 
 public Plugin myinfo = 
 {
-	name = "Chicken Bombs",
+	name = "Chicken Grenade",
 	author = "Kento",
-	description = "Pokeball Nades",
-	version = "1.0",
-	url = "http://steamcommunity.com/id/kentomatoryoshika"
+	description = "Replace thrown hegrenade to chicken.",
+	version = "1.1",
+	url = "https://github.com/rogeraabbccdd/chicken-grenade"
 };
 
 public void OnPluginStart()
